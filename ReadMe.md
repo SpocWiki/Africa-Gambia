@@ -112,8 +112,8 @@ id: Gambia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Gambia//
-markerFolder: ./Gambia//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Gambia] 
