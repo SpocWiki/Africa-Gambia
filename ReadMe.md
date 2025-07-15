@@ -135,10 +135,4 @@ Capital :: [[Banjul]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Gambia|Gambia]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Gambia.internal|Gambia.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Gambia.protect|Gambia.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Gambia.private|Gambia.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]] 
+

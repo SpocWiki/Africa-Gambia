@@ -40,11 +40,18 @@ markerFolder: ./Central_River/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gambia/Counties/Central_River|Central_River]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gambia/Counties/Central_River.public|Central_River.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gambia/Counties/Central_River.internal|Central_River.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gambia/Counties/Central_River.protect|Central_River.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gambia/Counties/Central_River.private|Central_River.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gambia/Counties/Central_River.personal|Central_River.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gambia/Counties/Central_River.secret|Central_River.secret]] 
+
+### #is_/same_as :: [Central_River](/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Central_River.md) 
+
+### #is_/same_as :: [Central_River.public](/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Central_River.public.md) 
+
+### #is_/same_as :: [Central_River.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Central_River.internal.md) 
+
+### #is_/same_as :: [Central_River.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Central_River.protect.md) 
+
+### #is_/same_as :: [Central_River.private](/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Central_River.private.md) 
+
+### #is_/same_as :: [Central_River.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Central_River.personal.md) 
+
+### #is_/same_as :: [Central_River.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Central_River.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./North_Bank/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gambia/Counties/North_Bank|North_Bank]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gambia/Counties/North_Bank.public|North_Bank.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gambia/Counties/North_Bank.internal|North_Bank.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gambia/Counties/North_Bank.protect|North_Bank.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gambia/Counties/North_Bank.private|North_Bank.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gambia/Counties/North_Bank.personal|North_Bank.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gambia/Counties/North_Bank.secret|North_Bank.secret]] 
+
+### #is_/same_as :: [North_Bank](/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/North_Bank.md) 
+
+### #is_/same_as :: [North_Bank.public](/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/North_Bank.public.md) 
+
+### #is_/same_as :: [North_Bank.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/North_Bank.internal.md) 
+
+### #is_/same_as :: [North_Bank.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/North_Bank.protect.md) 
+
+### #is_/same_as :: [North_Bank.private](/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/North_Bank.private.md) 
+
+### #is_/same_as :: [North_Bank.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/North_Bank.personal.md) 
+
+### #is_/same_as :: [North_Bank.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/North_Bank.secret.md)
 

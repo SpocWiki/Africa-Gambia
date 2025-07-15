@@ -40,11 +40,18 @@ markerFolder: ./Banjul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Gambia/Counties/Banjul|Banjul]] 
-- [[../../../../../../_public/geo/Continent/Africa/Gambia/Counties/Banjul.public|Banjul.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Gambia/Counties/Banjul.internal|Banjul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Gambia/Counties/Banjul.protect|Banjul.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Gambia/Counties/Banjul.private|Banjul.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Gambia/Counties/Banjul.personal|Banjul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Gambia/Counties/Banjul.secret|Banjul.secret]] 
+
+### #is_/same_as :: [Banjul](/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul.md) 
+
+### #is_/same_as :: [Banjul.public](/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul.public.md) 
+
+### #is_/same_as :: [Banjul.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul.internal.md) 
+
+### #is_/same_as :: [Banjul.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul.protect.md) 
+
+### #is_/same_as :: [Banjul.private](/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul.private.md) 
+
+### #is_/same_as :: [Banjul.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul.personal.md) 
+
+### #is_/same_as :: [Banjul.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul.secret.md)
 
