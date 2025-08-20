@@ -1,40 +1,41 @@
 ---
 location:
-- 13.4667
-- -16.6
+  - 13.4667
+  - -16.6
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26906
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Gambia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Gambia
-- Gambie
-- غامبيا
-- 冈比亚
-- Гамбия
-- the Republic of the Gambia
-- Gambia (the)
-- la República de Gambia
+  - Gambia
+  - Gambie
+  - غامبيا
+  - 冈比亚
+  - Гамбия
+  - the Republic of the Gambia
+  - Gambia (the)
+  - la República de Gambia
 Languages:
-- en-GM
-- mnk
-- wof
-- wo
-- ff
+  - en-GM
+  - mnk
+  - wof
+  - wo
+  - ff
 ---
 
 
