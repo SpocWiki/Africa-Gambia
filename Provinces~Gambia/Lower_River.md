@@ -40,17 +40,17 @@ markerFolder: ./Lower_River/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lower_River](/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River|Lower_River]] 
 
-### #is_/same_as :: [Lower_River.public](/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.public|Lower_River.public]] 
 
-### #is_/same_as :: [Lower_River.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.internal|Lower_River.internal]] 
 
-### #is_/same_as :: [Lower_River.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.protect|Lower_River.protect]] 
 
-### #is_/same_as :: [Lower_River.private](/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.private|Lower_River.private]] 
 
-### #is_/same_as :: [Lower_River.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.personal|Lower_River.personal]] 
 
-### #is_/same_as :: [Lower_River.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Lower_River.secret|Lower_River.secret]] 
 

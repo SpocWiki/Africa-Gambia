@@ -40,17 +40,17 @@ markerFolder: ./Upper_River/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Upper_River](/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River|Upper_River]] 
 
-### #is_/same_as :: [Upper_River.public](/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.public|Upper_River.public]] 
 
-### #is_/same_as :: [Upper_River.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.internal|Upper_River.internal]] 
 
-### #is_/same_as :: [Upper_River.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.protect|Upper_River.protect]] 
 
-### #is_/same_as :: [Upper_River.private](/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.private|Upper_River.private]] 
 
-### #is_/same_as :: [Upper_River.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.personal|Upper_River.personal]] 
 
-### #is_/same_as :: [Upper_River.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Upper_River.secret|Upper_River.secret]] 
 

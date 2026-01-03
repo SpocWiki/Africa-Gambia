@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Banjul](/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul|Banjul]] 
 
-### #is_/same_as :: [Banjul.public](/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.public|Banjul.public]] 
 
-### #is_/same_as :: [Banjul.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.internal|Banjul.internal]] 
 
-### #is_/same_as :: [Banjul.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.protect|Banjul.protect]] 
 
-### #is_/same_as :: [Banjul.private](/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.private|Banjul.private]] 
 
-### #is_/same_as :: [Banjul.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.personal|Banjul.personal]] 
 
-### #is_/same_as :: [Banjul.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/Banjul/City/Banjul.secret|Banjul.secret]] 
 

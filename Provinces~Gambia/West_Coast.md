@@ -40,17 +40,17 @@ markerFolder: ./West_Coast/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [West_Coast](/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast|West_Coast]] 
 
-### #is_/same_as :: [West_Coast.public](/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.public|West_Coast.public]] 
 
-### #is_/same_as :: [West_Coast.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.internal|West_Coast.internal]] 
 
-### #is_/same_as :: [West_Coast.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.protect|West_Coast.protect]] 
 
-### #is_/same_as :: [West_Coast.private](/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.private|West_Coast.private]] 
 
-### #is_/same_as :: [West_Coast.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.personal|West_Coast.personal]] 
 
-### #is_/same_as :: [West_Coast.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Gambia/Provinces~Gambia/West_Coast.secret|West_Coast.secret]] 
 
