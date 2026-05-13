@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./West_Coast/
 markerFolder: ./West_Coast/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
