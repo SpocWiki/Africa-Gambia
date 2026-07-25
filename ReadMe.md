@@ -402,7 +402,7 @@ dv_UNTERM_Chinese_Formal: 冈比亚共和国
 dv_UNTERM_French_Formal: la République de Gambie
 dv_UNTERM_Russian: Гамбия
 dv_UNTERM_Russian_Formal: Республика Гамбия
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -429,7 +429,7 @@ dv_ISO2: GM
 dv_ISO3: GMB
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]'
+  - '[[../../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~West/Gambia|Gambia]]'
   - '[[/_public/Earth/Continent/Africa/Africa~West/Gambia.public|Gambia.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal|Gambia.internal]]'
@@ -719,7 +719,7 @@ dv_has_:
 dv_has_name_de: Gambia
 dv_Area-Total: 11295
 dv_Area-Land: 10000
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: WAG
 dv_Alcohol-l: 3.4
 dv_Language-Id: 499
@@ -727,7 +727,7 @@ dv_has_place_longitude: -16.6
 dv_has_place_latitude: 13.4667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]'
+- '[[../../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~West/Gambia|Gambia]]'
 - '[[/_public/Earth/Continent/Africa/Africa~West/Gambia.public|Gambia.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal|Gambia.internal]]'
@@ -809,12 +809,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]] 
+#is_/same_as :: [[../../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Gambia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map 
@@ -834,7 +834,7 @@ markerFile: [[Gambia]]
 
 ```leaflet
 id: Gambia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -862,7 +862,7 @@ Capital :: [[Banjul]]
 
 ![[Coat_of_arms_of_Gambia.svg|650]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Gambia.mp3|Anthem-Gambia.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Gambia.mp3|Anthem-Gambia.mp3]]
 
 ![[Flag_of_the_Gambia.svg|350]]
 
